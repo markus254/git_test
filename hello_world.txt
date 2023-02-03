@@ -1,1 +1,2 @@
 Lessons on using Git
+Using git commit without the -m(message flag)
